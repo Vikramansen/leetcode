@@ -14,3 +14,4 @@ def main():
     print(Solution().dailyTemperatures(a))
 
 main()
+
